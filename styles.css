@@ -35,3 +35,14 @@ p {
   font-size:30px;
   margin-right:120px;
 }
+
+h1 {
+  font-size:65px;
+  text-align:center;
+  color:#1f80c9;
+}
+
+#perc {
+  color:#cd5c5c;
+}
+
