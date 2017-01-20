@@ -1,0 +1,22 @@
+{
+  "name": "interest-calculator",
+  "version": "1.0.0",
+  "description": "App for calculating interest",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evo777/interest-calculator.git"
+  },
+  "author": "Emmanuel Vo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evo777/interest-calculator/issues"
+  },
+  "homepage": "https://github.com/evo777/interest-calculator#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
